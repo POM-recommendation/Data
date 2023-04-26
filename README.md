@@ -12,6 +12,7 @@ The data set covers all behaviors (including clicks, favorites, adding, and purc
 | --- | --- |
 | User ID | An integer, the serialized ID that represents a user |
 | Item ID | An integer, the serialized ID that represents an item |
+| Context IDs | A String, the ID of each tag is separated by English semicolon after serialization |
 | Behavior type | A string, enum-type from ('browsing', 'click', 'pay') |
 | Timestamp | An integer, the timestamp of the behavior |
 
