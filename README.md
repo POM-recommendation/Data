@@ -33,6 +33,6 @@ This data file mainly contains the basic attribute characteristics of about 34M 
 | --- | --- |
 | Item ID | An integer, the serialized ID that represents an item |
 | Category ID | An integer, the serialized ID of the first leg of the train number |
-| Creative Picture Elements IDs | An integer, the serialized ID that represents the creative picture，multi value |
-| Creative Text Elements IDs | An integer, the serialized ID that represents the creative text，multi value |
+| Creative Picture Tag IDs | A String, the ID of each tag is separated by English semicolon after serialization |
+| Creative Text Tag IDs | A String, the ID of each tag is separated by English semicolon after serialization |
 |
